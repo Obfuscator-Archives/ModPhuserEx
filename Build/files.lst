@@ -1,0 +1,16 @@
+..\Release\bin\ModPhuserEx.CLI.exe
+..\Release\bin\Confuser.Core.*
+..\Release\bin\Confuser.DynCipher.*
+..\Release\bin\Confuser.Protections.*
+..\Release\bin\Confuser.Renamer.*
+..\Release\bin\Confuser.Runtime.*
+..\Release\bin\dnlib.*
+..\Release\bin\ModPhuserEx.exe
+..\Release\bin\ModPhuserEx.exe.config
+..\Release\bin\ModPhuserEx.Protections.*
+..\Release\bin\System.Threading.dll
+..\Release\bin\GalaSoft.MvvmLight.Extras.WPF4.dll
+..\Release\bin\GalaSoft.MvvmLight.WPF4.dll
+..\Release\bin\Microsoft.Practices.ServiceLocation.dll
+..\Release\bin\Ookii.Dialogs.Wpf.dll
+..\Release\bin\System.Windows.Interactivity.dll
